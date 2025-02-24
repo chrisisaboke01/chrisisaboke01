@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @chrisisaboke01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Christopher Isaboke Nyangaresi 👋
 
-<!---
-chrisisaboke01/chrisisaboke01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+- 💻 Backend Developer | Networking Enthusiast | Tech Innovator
+- 📚 Currently learning **Django & Advanced Backend Development**
+- 🔍 Exploring **Cryptocurrency & Investments**
+- 🎨 Aspiring **Graphic Designer**
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christopher-isaboke)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/chrisisaboke01)
+
+### ⚡ GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisisaboke01&show_icons=true&theme=dark)
+
+---
+⭐️ **Feel free to check out my repositories and contribute!** 🚀
