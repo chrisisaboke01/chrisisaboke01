@@ -1,5 +1,3 @@
-![Profile Banner](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
-
 ### 🚀 About Me  
 - **Backend Developer | Networking Engineer**  
 - **Skilled in Django, Python, and System Architecture**  
